@@ -1,30 +1,21 @@
-# Mindfulness journal design
+# Mindful Journal 🌿
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+**Mindful Journal** is a digital journaling web app focused on mindfulness, mood tracking, and personal growth.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/kumars-projects-d1d9edc3/v0-mindfulness-journal-design)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/m3L9pXhRCi3)
+## 🧭 Features
 
-## Overview
+- ✅ User signup/login (authentication + profile)
+- 😊 Daily mood tracking (emoji / 1–10 scale)
+- 🤖 AI-powered reflection prompts (via Gemini API)
+- 📈 Growth timeline and visual mood stats
+- 📄 Exportable journal entries (PDF)
+- 📱 Responsive UI (React + Tailwind)
+- 🛠 Backend: Node.js + Express + PostgreSQL
+- ⚙️ Hosted with Vercel (frontend + backend)
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+## 🚀 Getting Started
 
-## Deployment
-
-Your project is live at:
-
-**[https://vercel.com/kumars-projects-d1d9edc3/v0-mindfulness-journal-design](https://vercel.com/kumars-projects-d1d9edc3/v0-mindfulness-journal-design)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/m3L9pXhRCi3](https://v0.dev/chat/projects/m3L9pXhRCi3)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+1. Clone the repo  
+   ```bash
+   git clone https://github.com/Ifihan/mindful-journal.git
+   cd mindful-journal
